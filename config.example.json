@@ -1,6 +1,6 @@
 {
-    "defaultPrefix": ".",
-    "token": "PLACE_MAIN_TOKEN_HERE",
+    "defaultPrefix": "/",
+    "token": "NzkzMzAzNzAxODIxMDYzMTc4.X-qTpQ.SZFzSBFpEP1FxQw2Rvy8ZuH7z40",
     "extraTokens": [],
     "youTubeDataAPIKey": ""
 }
